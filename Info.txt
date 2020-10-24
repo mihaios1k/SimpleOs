@@ -1,0 +1,3 @@
+Все спизжено с сайта wiki.osdev.org
+
+шоб скомпилить nasm boot.asm -f bin -o boot.bin
